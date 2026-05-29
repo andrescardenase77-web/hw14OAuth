@@ -139,33 +139,10 @@ body {
     color: #0052cc !important;
 }
 
-.bg-success-subtle {
-    background-color: #e6f8ef !important;
-}
-
-.text-success {
-    color: #0e8a4a !important;
-}
-
-.btn-success {
-    background-color: #0e8a4a;
-    border-color: #0e8a4a;
-}
-
-.btn-success:hover {
-    background-color: #0b703c;
-    border-color: #0b703c;
-}
-
 .bg-warning-subtle {
     background-color: #fff8e6 !important;
 }
 
 .text-warning-emphasis {
     color: #b38600 !important;
-}
-
-.btn-warning {
-    background-color: #ffc107;
-    color: #000;
 }
