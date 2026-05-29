@@ -2,7 +2,7 @@
 session_start();
 
 if (!isset($_SESSION['isAuthenticated']) || $_SESSION['isAuthenticated'] !== true) {
-    header("Location: unauthorized.php");
+    header("Location: unauthorized.html");
     exit();
 }
 ?>
